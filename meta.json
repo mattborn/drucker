@@ -1,0 +1,208 @@
+{
+  "logs": [
+    {
+      "category": "Environment",
+      "description": "",
+      "file": "bags.json",
+      "label": "grocery bags saved",
+      "target": 120
+    },
+    {
+      "category": "Growth",
+      "description": "",
+      "file": "books.json",
+      "label": "nonfiction books",
+      "target": 12
+    },
+    {
+      "category": "Growth",
+      "description": "Fifty under fifty using Krisp",
+      "file": "calls.json",
+      "label": "calls <50% talk time",
+      "target": 50
+    },
+    {
+      "category": "Travel",
+      "description": "",
+      "file": "camps.json",
+      "label": "nights camping",
+      "target": 24
+    },
+    {
+      "category": "Media",
+      "description": "Full symphonies",
+      "file": "composers.json",
+      "label": "classical composers",
+      "target": 30
+    },
+    {
+      "category": "Fitness",
+      "description": "Miles and minutes",
+      "file": "goes.json",
+      "label": "goodie credits",
+      "status": "skipped",
+      "target": 100
+    },
+    {
+      "category": "Family",
+      "description": "",
+      "file": "dates.json",
+      "label": "DaddyDates™",
+      "target": 200
+    },
+    {
+      "category": "Food",
+      "description": "Highly restrictive paleo diet",
+      "file": "diets.json",
+      "label": "days on Whole30",
+      "target": 30
+    },
+    {
+      "category": "Travel",
+      "description": "",
+      "file": "disney.json",
+      "label": "days @ Disney",
+      "target": 4
+    },
+    {
+      "category": "Community",
+      "description": "",
+      "file": "donations.json",
+      "label": "donations collected",
+      "target": 50
+    },
+    {
+      "category": "Community",
+      "description": "",
+      "file": "donations.json",
+      "label": "donations gifted",
+      "target": 10
+    },
+    {
+      "category": "Food",
+      "description": "",
+      "file": "dry.json",
+      "label": "zero alcohol",
+      "target": 200
+    },
+    {
+      "category": "Work",
+      "description": "",
+      "file": "events.json",
+      "label": "tech events",
+      "target": 52
+    },
+    {
+      "category": "Work",
+      "description": "",
+      "file": "experiments.json",
+      "label": "coded experiments",
+      "target": 52
+    },
+    {
+      "category": "Media",
+      "description": "via Letterboxd",
+      "file": "films.json",
+      "label": "John Hughes films",
+      "target": 34
+    },
+    {
+      "category": "Fitness",
+      "description": "Gym, run, walk",
+      "file": "goes.json",
+      "label": "DaddyGoes™",
+      "target": 200
+    },
+    {
+      "category": "Fitness",
+      "description": "",
+      "file": "goes.json",
+      "label": "miles",
+      "target": 150
+    },
+    {
+      "category": "Community",
+      "description": "",
+      "file": "joey.json",
+      "label": "for Joey?",
+      "target": 100
+    },
+    {
+      "category": "Work",
+      "description": "",
+      "file": "leads.json",
+      "label": "leads chased",
+      "target": 100
+    },
+    {
+      "category": "Food",
+      "description": "",
+      "file": "meals.json",
+      "label": "meals planned",
+      "target": 600
+    },
+    {
+      "category": "Work",
+      "description": "",
+      "file": "messages.json",
+      "label": "public marketing messages",
+      "target": 52
+    },
+    {
+      "category": "Family",
+      "description": "The daily cycle",
+      "file": "nights.json",
+      "label": "Night Watch®",
+      "target": 200
+    },
+    {
+      "category": "Travel",
+      "description": "",
+      "file": "parks.json",
+      "label": "National Parks",
+      "target": 10
+    },
+    {
+      "category": "Faith",
+      "description": "Borrowed, written, read aloud",
+      "file": "prayers.json",
+      "label": "DaddyPrays™",
+      "target": 200
+    },
+    {
+      "category": "Work",
+      "description": "Micro-products",
+      "file": "products.json",
+      "label": "product launches",
+      "target": 20
+    },
+    {
+      "category": "Food",
+      "description": "",
+      "file": "sweet.json",
+      "label": "zero sweets",
+      "target": 200
+    },
+    {
+      "category": "Work",
+      "description": "",
+      "file": "videos.json",
+      "label": "videos published",
+      "target": 50
+    },
+    {
+      "category": "Work",
+      "description": "",
+      "file": "zooms.json",
+      "label": "hosted Zoom calls",
+      "target": 100
+    },
+    {
+      "category": "Family",
+      "description": "",
+      "file": "zooms.json",
+      "label": "chess matches",
+      "target": 100
+    }
+  ]
+}

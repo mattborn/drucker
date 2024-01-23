@@ -1,0 +1,182 @@
+[
+  {
+    "composer": "Bach",
+    "date": "2024-01-01",
+    "review": "the German perfection of composition",
+    "work": "Brandenburg Concertos"
+  },
+  {
+    "composer": "Handel",
+    "date": "2024-01-02",
+    "review": "sleepy British church music",
+    "work": "Messiah"
+  },
+  {
+    "composer": "Vivaldi",
+    "date": "2024-01-03",
+    "review": "classy, collegiate Austrian",
+    "work": "The Four Seasons"
+  },
+  {
+    "composer": "Mozart",
+    "date": "2024-01-04",
+    "review": "genius Austrian",
+    "work": "Symphonies Nos. 28, 31, 40"
+  },
+  {
+    "composer": "Beethoven",
+    "date": "2024-01-05",
+    "review": "brilliant Austrian",
+    "work": "Symphony No. 9"
+  },
+  {
+    "composer": "Franz Schubert",
+    "date": "2024-01-06",
+    "review": "Austrian high society, like Beethoven",
+    "work": "Symphonies Nos. 3, 8"
+  },
+  {
+    "composer": "Chopin",
+    "date": "2024-01-07",
+    "review": "beautifully complex Polish piano",
+    "work": "Nocturnes"
+  },
+  {
+    "composer": "Richard Wagner",
+    "date": "2024-01-08",
+    "review": "an absolute German masterpiece, total work of art",
+    "work": "Der Ring des Nibelungen"
+  },
+  {
+    "composer": "Brahms",
+    "date": "2024-01-09",
+    "review": "sleepy Austrian",
+    "work": "Hungarian Dances"
+  },
+  {
+    "composer": "Tchaikovsky",
+    "date": "2024-01-10",
+    "review": "timeless Russian romance",
+    "work": "Swan Lake"
+  },
+  {
+    "composer": "Antonin Dvořák",
+    "date": "2024-01-11",
+    "review": "a balanced Czech piece, enjoyed twice",
+    "work": "Symphony No. 9"
+  },
+  {
+    "composer": "Arnold Schoenberg",
+    "date": "2024-01-12",
+    "review": "so prim and proper",
+    "work": "String Quartet No. 1, Verklärte Nacht"
+  },
+  {
+    "composer": "Sergei Rachmaninoff",
+    "date": "2024-01-13",
+    "review": "caught off guard and fully captivated, a favorite!",
+    "work": "Piano Concerto No. 2"
+  },
+  {
+    "composer": "Gustav Mahler",
+    "date": "2024-01-14",
+    "review": "a triumphant Austrian spectacle",
+    "work": "Symphony No. 5"
+  },
+  {
+    "composer": "Claude Debussy",
+    "date": "2024-01-15",
+    "review": "instantly recognizable French elegance, but of course",
+    "work": "Clair de Lune from Bergamasque"
+  },
+  {
+    "composer": "Igor Stravinsky",
+    "date": "2024-01-16",
+    "review": "a wonderful Russian montage of moods, composed by Bernstein",
+    "work": "The Rite of Spring, The Firebird Suite"
+  },
+  {
+    "composer": "Dmitri Shosakovich",
+    "date": "2024-01-17",
+    "review": "dark Russian sound, again composed by Bernstein",
+    "work": "Symphony No. 5"
+  },
+  {
+    "composer": "Béla Bartók",
+    "date": "2024-01-18",
+    "review": "lovely, cinematic Hungarian",
+    "work": "Concerto for Orchestra"
+  },
+  {
+    "composer": "Aaron Copland",
+    "date": "2024-01-19",
+    "review": "recognized several pieces",
+    "work": "Appalachian Spring, Rodeo, Billy the Kid Suite"
+  },
+  {
+    "composer": "Leonard Bernstein",
+    "date": "2024-01-19",
+    "review": "so fun! a genius who changed my entire perspective on music",
+    "work": "West Side Story"
+  },
+  {
+    "composer": "Benjamin Britten",
+    "date": "2024-01-19",
+    "review": "delicate with some intense moments, inspired John Williams?",
+    "work": "War Requiem"
+  },
+  {
+    "composer": "Philip Glass",
+    "date": "2024-01-22",
+    "review": "easily the most obnoxious so far, I don’t get minimalism",
+    "work": "Einstein on the Beach"
+  },
+  {
+    "composer": "Steve Reich",
+    "date": "2024-01-23",
+    "review": "more palatable than Glass, still too repetitive",
+    "work": "Music for 18 Musicians"
+  },
+  {
+    "composer": "Arvo Pärt",
+    "date": "2024-01-24",
+    "review": "a breath of fresh air after Glass and Reich, cinematic",
+    "work": "Tabula Rasa"
+  },
+  {
+    "composer": "John Williams",
+    "date": "2024-01-25",
+    "review": "a lifelong favorite—my dad took me to the theatrical rerelease when I was 10",
+    "work": "Star Wars: The Empire Strikes Back"
+  },
+  {
+    "composer": "John Adams",
+    "date": "2024-01-26",
+    "review": "the only minimalist composer I enjoyed, the repetition was balanced",
+    "work": "Harmonielehre"
+  },
+  {
+    "composer": "Ennio Morricone",
+    "date": "2024-01-27",
+    "review": "loved the Good, the Bad, and the Ugly",
+    "work": "Sergio Leone Suite"
+  },
+  {
+    "composer": "Karl Jenkins",
+    "date": "2024-01-28",
+    "review": "Disney Lion King, Frozen, and Moana vibes",
+    "work": "Adiemus: Songs of Sanctuary"
+  },
+  {
+    "composer": "Kaija Saariaho",
+    "date": "2024-01-29",
+    "review": "hard to follow a French opera without subtitles",
+    "work": "L’Amour de Loin"
+  },
+  {
+    "composer": "Ludovico Einaudi",
+    "date": "2024-01-30",
+    "review": "amazing—I understand why he is the most popular living classical composer",
+    "work": "Divenire"
+  }
+]

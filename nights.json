@@ -1,0 +1,30 @@
+[
+  {
+    "activities": ["alarm", "brush", "charge", "dishes", "doors", "read", "talk", "trash"],
+    "date": "2024-01-23"
+  },
+  {
+    "activities": ["alarm", "brush", "charge", "clothes", "doors", "lotion", "talk", "water"],
+    "date": "2024-01-24"
+  },
+  {
+    "activities": ["alarm", "brush", "doors", "lotion"],
+    "date": "2024-01-25"
+  },
+  {
+    "activities": ["alarm", "brush", "charge", "doors", "dishes", "talk", "trash", "water"],
+    "date": "2024-01-28"
+  },
+  {
+    "activities": ["alarm", "brush", "doors", "dishes", "lotion", "water"],
+    "date": "2024-01-29"
+  },
+  {
+    "activities": ["alarm", "brush", "doors", "dishes"],
+    "date": "2024-01-30"
+  },
+  {
+    "activities": ["brush", "charge", "doors", "dishes"],
+    "date": "2024-01-31"
+  }
+]

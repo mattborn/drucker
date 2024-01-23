@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body {
+  -webkit-font-smoothing: antialiased;
+  background: #f2f4f7;
+  color: #1d2939;
+  font: 100%/1 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  padding: 2rem;
+  text-rendering: geometricPrecision;
+}
+
+h1,
+h3 {
+  margin: 0;
+}
+
+h3 {
+  font-size: 12px;
+}
+
+#dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 12px;
+  display: flex;
+  flex: 1 0 10rem;
+  flex-direction: column;
+  gap: 8px;
+  padding: 10px;
+}
+
+.count {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.progress {
+  background: #f2f4f7;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.bar {
+  background: #07f;
+  height: 8px;
+  width: 0%; /* Initial width */
+}
+
+/* card statuses */
+
+.complete {
+  background: #1c72;
+  color: #1c7;
+}
+.complete .bar {
+  background: #1c7;
+}
+.nominal {
+}
+.ambitious {
+  background: #f752;
+  color: #f75;
+}
+.ambitious .bar {
+  background: #f75;
+}
+.impossible {
+  color: #f04;
+}
+.impossible .bar {
+  background: #f04;
+}

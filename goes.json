@@ -1,0 +1,47 @@
+[
+  {
+    "activity": "Trail",
+    "date": "2024-01-07",
+    "location": "Desolation",
+    "miles": 4.8,
+    "with": "Joey"
+  },
+  {
+    "activity": "Gym",
+    "date": "2024-01-08",
+    "minutes": 39,
+    "with": "Joey"
+  },
+  {
+    "activity": "Gym",
+    "date": "2024-01-10",
+    "minutes": 42,
+    "with": "Joey"
+  },
+  {
+    "activity": "Trail",
+    "date": "2024-01-20",
+    "location": "Rattlesnake",
+    "miles": 4.3,
+    "with": "Joey"
+  },
+  {
+    "activity": "Gym",
+    "date": "2024-01-22",
+    "minutes": 46,
+    "with": "Joey"
+  },
+  {
+    "activity": "Trail",
+    "date": "2024-01-24",
+    "location": "Burch Hollow",
+    "miles": 4.3,
+    "with": "Joey"
+  },
+  {
+    "activity": "Gym",
+    "date": "2024-01-29",
+    "minutes": 46,
+    "with": "Joey"
+  }
+]
