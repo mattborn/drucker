@@ -43,5 +43,10 @@
     "attendees": ["Me", "Rikki"],
     "date": "2024-02-01",
     "memories": ["client memes, Hooga House"]
+  },
+  {
+    "attendees": ["Brock", "Deb", "Me", "Joey", "Rikki"],
+    "date": "2024-02-02",
+    "memories": ["acronyms, consulting woes, industrial design, Storyliving, D&D"]
   }
 ]
